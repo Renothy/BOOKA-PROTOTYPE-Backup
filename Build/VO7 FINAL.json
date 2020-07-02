@@ -1,0 +1,16 @@
+{
+"companyName": "Steyn en Harmse",
+"productName": "BOOKA Prototype",
+"productVersion": "1.0",
+"dataUrl": "VO7 FINAL.data.unityweb",
+"wasmCodeUrl": "VO7 FINAL.wasm.code.unityweb",
+"wasmFrameworkUrl": "VO7 FINAL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.13f1"
+}
